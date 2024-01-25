@@ -153,3 +153,32 @@ print(add_nums(2, 10))
 
 
 18.
+
+
+
+
+
+
+
+
+
+##################################### kapil ###########################
+1. reverse String  "hello"
+2. reverse string word "i am student"
+3. python program for prime number
+4. remove empty tuple from list
+5. 
+
+
+
+
+
+
+Types of Python Operators
+Arithmetic Operators.
+Comparison (Relational) Operators.
+Assignment Operators.
+Logical Operators.
+Bitwise Operators.
+Membership Operators.
+Identity Operators.
