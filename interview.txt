@@ -167,8 +167,7 @@ print(add_nums(2, 10))
 2. reverse string word "i am student"
 3. python program for prime number
 4. remove empty tuple from list
-5. 
-
+5. how to find length of list without len function
 
 
 
